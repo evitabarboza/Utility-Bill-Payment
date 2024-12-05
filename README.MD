@@ -1,4 +1,4 @@
-# Public Utility Bill Payment and Invoice Generation System
+# Public Utility Bill Payment System
 
 The **Public Utility Bill Payment and Invoice Generation System** helps users manage and pay their utility bills for **electricity**, **water**, and **gas** efficiently. The system allows users to log payments, generate invoices, and track historical transactions, ensuring that urgent requests (e.g., overdue payments, disconnections) are prioritized and handled effectively.
 
