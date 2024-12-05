@@ -37,7 +37,8 @@ To run this project locally:
 
 3. **Install dependencies:**
    ```bash
-   npm install
+   npm init -y
+   npm install express fs pdfkit
    ```
 
 4. **Start the application:**
@@ -53,10 +54,10 @@ Send a **POST** request to `/payment` with the following JSON body:
 
 ```json
 {
-  "billType": "Electricity",      // Type of utility bill (e.g., Electricity, Water, Gas)
-  "amount": 500,                 // Amount for the bill payment
-  "accountNumber": "12345",      // Account number associated with the bill
-  "paymentDate": "2024-12-05"    // Payment date in YYYY-MM-DD format
+  "billType": "Electricity",      
+  "amount": 500,                 
+  "accountNumber": "12345",      
+  "paymentDate": "2024-12-05"    
 }
 ```
 
