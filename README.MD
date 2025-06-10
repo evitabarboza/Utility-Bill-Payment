@@ -129,5 +129,3 @@ For any inquiries, suggestions, or feedback, please contact me at:
 
 - **Email:** evitabarboza195@gmail.com
 - **GitHub:** [Evita Barboza](https://github.com/evitabarboza)
-
----
